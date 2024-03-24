@@ -1,16 +1,21 @@
-### Hi there 👋
+hello 👋 
+I'm DON, a Systems engineer and Developer  
+Having over 5+ years of experience in Software and Design
 
-<!--
-**1donmc/1donmc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[E-mail](mailto:1donmc.one@gmail.com) — [LinkedIn](https://www.linkedin.com/in/1donmc/) — [Instagram](https://www.instagram.com/1donmc/) — [Telegram](https://t.me/1donmc) — [GitHub](https://github.com/1donmc)
 
-Here are some ideas to get you started:
+[See website for more information](https://codeeblacc.firebaseapp.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+* Full Stack Web Development
+* DevOps Engineering
+* Penetration Testing
+* Android & IOS Development
+* Desktop GUI development
+* Concept Prototyping
+* Scripting + Bug Fixing
+* Version Control System
+<br>
+<!-- [![Codeeblacc's github activity graph](https://activity-graph.herokuapp.com/graph?username=codeeblacc&theme=xcode)]() -->
+For me, code is a means to and end and the most important part of any team/project/company is its people. I'm dedicated to delivering exquisite experiences at every level of creativity. Also a specialist at getting the job done
